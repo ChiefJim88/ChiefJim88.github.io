@@ -1,0 +1,62 @@
+img{
+    border: 1px solid #d12d2d;
+    float: left;
+
+}
+.row{
+    display: flex;
+    margin: 10px;
+    font-size: 15px
+    flex: 1;
+    flex-wrap: wrap;
+}
+.col{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+
+}
+.container{
+    margin: 0;
+    display:flex;
+    text-align: center;
+    width: 800px;
+}
+div.header{
+    padding: 5px;
+    background-color: #00b7ff
+}
+div.header h1{
+    margin: 5px;
+}
+    h3{
+    text-align: center;
+}
+.child{
+    background: white;
+    font-family: 'Montserrat';
+    padding: 6px;
+    border: 1px solid gray;
+    margin: 3px;
+
+}
+.solo{
+    background: white;
+    margin: 20px;
+    font-family: 'Montserrat';
+    text-align: center;
+    padding: 6px;
+    border: 1px solid gray;
+}
+
+.box2 {
+width: 300px;
+height: 200px;
+background: white;
+margin: 10px;
+
+}
