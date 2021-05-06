@@ -3,4 +3,13 @@
     color: green;
 }
 
+.mainheader{
+    background-color: red;
+    padding: 5px;
+}
+
+h.mainheader{
+    text-align: left;
+    text-color: Blue;
+}
 
