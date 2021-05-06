@@ -6,10 +6,21 @@
 .mainheader{
     background-color: red;
     padding: 5px;
+    margin: 2px;
 }
 
 h.mainheader{
     text-align: left;
     text-color: Blue;
 }
+
+.buttonfield{
+    padding: 5px;
+    margin 2ps:
+    background color: gray;
+    border= 3px solid red;
+}
+    
+    
+    
 
