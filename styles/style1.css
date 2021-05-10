@@ -20,6 +20,7 @@ h.mainheader{
     margin: 10px:
     background-color: gray;
     border: 3px solid red;
+    text-color: white;
 }
 h2{
     text-align: center;
